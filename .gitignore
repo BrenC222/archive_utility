@@ -1,0 +1,6 @@
+# Emacs IDE backups
+.gitignore~
+README.md~
+*.c~
+
+#Environment
